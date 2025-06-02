@@ -1,0 +1,15 @@
+.container {
+  font-family: Helvetica, sans-serif;
+  margin: 0 auto;
+  border-collapse: collapse;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: azure;
+  margin-top: 100px;
+}
+
+.tableItem {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: center;
+}
